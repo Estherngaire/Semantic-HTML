@@ -9,7 +9,7 @@
     </header>
   <main>
     <h1>Semantic is clearer</h1>
-      <p>Semantic shows a clear structure of the page you are in</p>
+      <p>Semantic html gives structure and provide context for browsers, search engines and assistive machines.The code is shorter, clearer and tells the search engine that the content is the page headers.</p>
   </main>  
   </main>  
 </body>
